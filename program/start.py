@@ -82,7 +82,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ملاحظة مهمة جدأ", url="https://t.me/Xl444/22"
+                        "المطور الثانويأ", url="https://t.me/HFFHH"
                     )
                 ],
             ]
@@ -104,7 +104,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("اوامر التشغيل", url=f"https://t.me/Xl444/31"),
                 InlineKeyboardButton(
-                    "مطور السورس", url=f"https://t.me/IIlIIIIIll"
+                    "مطور السورس", url=f"https://t.me/rr8r9"
                 ),
             ]
         ]
