@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ملاحظة مهمة جدأ", url="https://t.me/Xl444/22"
+                        "المطور الثانوي", url="https://t.me/HFFHH"
                     )
                 ],
             ]
@@ -68,7 +68,7 @@ async def cbguides(_, query: CallbackQuery):
 
 ℹ️ ** اذ لم ينضم حساب المساعد اكتب .اطلع , وبعد ذالك اكتب .انضم**
 
-ℹ️ ** اي مشكلة تواجها لاتتردد في التحدث مع المطور: @IIlIIIIIll**
+ℹ️ ** اي مشكلة تواجها لاتتردد في التحدث مع المطور: @rr8r9**
 
 ℹ️ __بواسطة  {BOT_NAME} __""",
         reply_markup=InlineKeyboardMarkup(
